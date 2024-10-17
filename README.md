@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+coding!+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+PolybamZ;Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+coding!+🚀)](https://git.io/typing-svg)
 
 <a href="https://github.com/Polybamz/github-readme-stats">
   <picture>

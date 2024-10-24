@@ -37,7 +37,7 @@
 <a href="https://twitter.com/@NformiPolycarp" target = "_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/twitter.png">
-        <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/twitter.png" width="42" height="42">
+        <img src="https://github.com/Polybamz/Polybamz/blob/main/Polybamz/main/social/dark/twitter.png" width="42" height="42">
     </picture>
 </a>
 <!-- &nbsp;&nbsp;&nbsp; -->
@@ -55,6 +55,7 @@
         <img align="left" src="https://github-readme-stats.vercel.app/api?username=Polybamz&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true">
     </picture>
 </a>
+
 
 <a href="https://github.com/Polybamz/github-readme-streak-stats">
     <picture>

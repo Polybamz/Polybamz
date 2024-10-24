@@ -1,9 +1,9 @@
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></picture>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+PolybamZ;Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+coding!+🚀)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I+am+PolybamZ;Welcome+to+My+Github+👋🏾;Explore,+enjoy,+and+feel+free.;Happy+coding!+🚀)](https://git.io/typing-svg)
 
-
+## PolybamZ
 
 <a href="https://github.com/Polybamz/github-readme-stats">
   <picture>
@@ -27,26 +27,26 @@
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/Polybamz">
+<a href="https://web.facebook.com/profile.php?id=100085742299456" target = "_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/facebook.png">
         <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/facebook.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/__Polybamz__">
+<a href="https://twitter.com/@NformiPolycarp" target = "_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/twitter.png">
         <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/twitter.png" width="42" height="42">
     </picture>
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.youtube.com/@Polybamz">
+<!-- &nbsp;&nbsp;&nbsp; -->
+<!-- <a href="https://www.youtube.com/@Polybamz" target = "_blank">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/youtube.png">
         <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/youtube.png" width="42" height="42">
     </picture>
-</a>
+</a> -->
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Polybamz/github-readme-stats">
@@ -84,7 +84,7 @@
 
 <div style="display: flex; justify-content: center;">
   <p align="center">
-    <a href="https://play.google.com/store/apps/details?id=com.sosbycaasitech.cameroon">
+    <a href="https://play.google.com/store/apps/details?id=com.sosbycaasitech.cameroon" target = "_blank">
       <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200" alt="AppStore">
     </a>
   </p>

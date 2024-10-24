@@ -13,40 +13,33 @@
   
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
+<a href="https://www.linkedin.com/in/polycarp-nformi-10b310259/" target="_blank">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/stackoverflow.png">
-        <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/stackoverflow.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/linkedin.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/linkedin.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/Polybamz">
+<a href="https://www.facebook.com/100085742299456" target="_blank">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/linkedin.png">
-        <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/linkedin.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jgphilpott/jgphilpott/main/imgs/social/dark/facebook.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/facebook.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://web.facebook.com/profile.php?id=100085742299456" target = "_blank">
+<a href="https://x.com/NformiPolycarp" target="_blank">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/facebook.png">
-        <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/facebook.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/twitter.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/twitter.png" width="42" height="42">
     </picture>
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/@NformiPolycarp" target = "_blank">
+<a href="" target="_blank">
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/twitter.png">
-        <img src="https://github.com/Polybamz/Polybamz/blob/main/Polybamz/main/social/dark/twitter.png" width="42" height="42">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aja237/aja237/main/social/dark/youtube.png">
+        <img src="https://raw.githubusercontent.com/aja237/aja237/main/social/light/youtube.png" width="42" height="42">
     </picture>
 </a>
-<!-- &nbsp;&nbsp;&nbsp; -->
-<!-- <a href="https://www.youtube.com/@Polybamz" target = "_blank">
-    <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/dark/youtube.png">
-        <img src="https://raw.githubusercontent.com/Polybamz/Polybamz/main/imgs/social/light/youtube.png" width="42" height="42">
-    </picture>
-</a> -->
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/Polybamz/github-readme-stats">
@@ -126,7 +119,7 @@
 
 <hr>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<!--<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>-->
 
 <h3 align="center">
     <a href="https://www.githubtrends.io/wrapped/Polybamz">
